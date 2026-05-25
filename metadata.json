@@ -1,0 +1,6 @@
+{
+  "name": "Premium Car Marketplace",
+  "description": "Elite global car search, AI-powered smart recommendations, interactive 360-degree vehicle customizer, side-by-side comparison, and professional finance integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
